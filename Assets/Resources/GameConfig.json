@@ -1,0 +1,14 @@
+{
+"GameConfig":
+	{
+		"gameAreaWidth": 100,
+		"gameAreaHeight": 100,
+		"numUnitsToSpawn": 100,
+		"unitSpawnDelay": 0.1,
+		"unitSpawnMinRadius": 0.5,
+		"unitSpawnMaxRadius": 1,
+		"unitSpawnMinSpeed": 5,
+		"unitSpawnMaxSpeed": 10,
+		"unitDestroyRadius": 0.2
+	}
+}
